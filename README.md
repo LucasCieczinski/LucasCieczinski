@@ -58,32 +58,6 @@ Tenho interesse principalmente em desenvolvimento Backend, APIs REST, arquitetur
 
 
 
-\## Projetos
-
-
-
-Aqui você encontrará projetos pessoais e acadêmicos envolvendo:
-
-
-
-\- Desenvolvimento Backend
-
-\- APIs REST
-
-\- Automação de processos
-
-\- Integração entre sistemas
-
-\- Aplicações Full-Stack
-
-\- Tratamento e processamento de dados
-
-
-
-Atualmente estou organizando e documentando meus principais projetos para disponibilizá-los como portfólio.
-
-
-
 \## Formação
 
 
