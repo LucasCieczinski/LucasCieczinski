@@ -1,4 +1,4 @@
-\# Olá, eu sou o Lucas 👋
+\# Olá, eu sou o Lucas
 
 
 
@@ -14,7 +14,7 @@ Tenho interesse principalmente em desenvolvimento Backend, APIs REST, arquitetur
 
 
 
-\## 🛠️ Tecnologias
+\## Tecnologias
 
 
 
@@ -58,7 +58,7 @@ Tenho interesse principalmente em desenvolvimento Backend, APIs REST, arquitetur
 
 
 
-\## 🚀 Projetos
+\## Projetos
 
 
 
