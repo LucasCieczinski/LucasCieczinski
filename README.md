@@ -55,9 +55,8 @@
 
 ---
 
-### 📊 Métricas de Desenvolvimento
+### 📊 Atividade no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasCieczinski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCieczinski&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasCieczinski&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
