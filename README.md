@@ -36,18 +36,25 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33.33%">
       <h3 align="center">🛡️ Valhalla Stock Management</h3>
       <p>API RESTful sob <b>Clean Architecture</b> voltada para controle de estoque corporativo, auditoria e segurança defensiva com <b>Spring Security, JWT e Redis</b>.</p>
       <p align="center">
-        <a href="https://github.com/LucasCieczinski/valhalla-stock-management"><b>Explorar Repositório →</b></a>
+        <a href="https://github.com/projeto-sptech-grupo-8/valhala.core.stock.app"><b>Explorar Repositório →</b></a>
       </p>
     </td>
-    <td width="50%">
+    <td width="33.33%">
+      <h3 align="center">💳 Controle & Conciliação</h3>
+      <p>Serviço backend em <b>Java 21 e Spring Boot</b> para gestão orçamentária, conciliação de lançamentos e controle de fluxo de caixa com PostgreSQL.</p>
+      <p align="center">
+        <a href="https://github.com/LucasCieczinski/projeto-pessoal-controle-financeiro"><b>Explorar Repositório →</b></a>
+      </p>
+    </td>
+    <td width="33.33%">
       <h3 align="center">⚙️ HyperTech – Motor ETL</h3>
       <p>Pipeline concorrente em <b>Java 21</b> para extração, normalização e carga em lote (ETL) de bases volumosas, integrado com <b>AWS S3 e PostgreSQL</b>.</p>
       <p align="center">
-        <a href="https://github.com/LucasCieczinski/jar-etl"><b>Explorar Repositório →</b></a>
+        <a href="https://github.com/HyperTech-SPTECH/Projeto_HyperTech"><b>Explorar Repositório →</b></a>
       </p>
     </td>
   </tr>
